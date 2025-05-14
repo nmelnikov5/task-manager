@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "text": "Изучить NodeJS",
+    "done": true
+  },
+  {
+    "id": 2,
+    "text": "Изучить ReactJS",
+    "done": true
+  },
+  {
+    "id": 3,
+    "text": "Написать приложение",
+    "done": false
+  },
+  {
+    "id": 4,
+    "text": "Уборка",
+    "done": false,
+    "status": "completed",
+    "dueDate": "2025-05-02",
+    "tags": [
+      "Работа по дому",
+      "Школа"
+    ],
+    "reminder": null,
+    "userId": 1
+  },
+  {
+    "id": 5,
+    "text": "ДЗ Обществознание",
+    "done": false,
+    "status": "in-progress",
+    "dueDate": "2025-05-03",
+    "tags": [
+      "Школа"
+    ],
+    "reminder": null,
+    "userId": 1
+  },
+  {
+    "id": 7,
+    "text": "Посуда",
+    "done": false,
+    "status": "completed",
+    "dueDate": "2025-04-25",
+    "tags": [
+      "Работа по дому"
+    ],
+    "reminder": null,
+    "userId": 1
+  }
+]

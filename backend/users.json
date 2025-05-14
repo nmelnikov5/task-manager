@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "username": "m",
+    "password": "$2a$10$AyJYu390IEx0HZ4Dmld0WOJ.e.WB1CTA5bXZhiMZ60FDkHnQ9uNDS"
+  },
+  {
+    "id": 2,
+    "username": "mam",
+    "password": "$2a$10$kVORGADV2NEFmTYXMm59pORGy7p8BHAqi0ZenAA0Aj4IhdvYfTVSO"
+  },
+  {
+    "id": 3,
+    "username": "pap",
+    "password": "$2a$10$uD/Q2BIPhm4HK7sbC5Mv4esGqYtrXh/v2X3AymKe2wKp.6UhrfubC"
+  }
+]
