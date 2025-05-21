@@ -29,7 +29,7 @@ npm install
 echo '[]' > todo-items.json
 
 Frontend Setup
-cd frontend
-npm install
-npm start
+cd frontend, 
+npm install, 
+npm start, 
 npm run dev
