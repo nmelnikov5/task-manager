@@ -50,5 +50,41 @@
     ],
     "reminder": null,
     "userId": 1
+  },
+  {
+    "id": 8,
+    "text": "Домашняя работа",
+    "done": false,
+    "status": "new",
+    "dueDate": "2025-05-24",
+    "tags": [
+      "Школа"
+    ],
+    "reminder": null,
+    "userId": 2
+  },
+  {
+    "id": 9,
+    "text": "Помыть посуду",
+    "done": false,
+    "status": "new",
+    "dueDate": "2025-05-21",
+    "tags": [
+      "Дом"
+    ],
+    "reminder": null,
+    "userId": 2
+  },
+  {
+    "id": 10,
+    "text": "Покосить газон ",
+    "done": false,
+    "status": "new",
+    "dueDate": "2025-05-25",
+    "tags": [
+      "Дача"
+    ],
+    "reminder": null,
+    "userId": 2
   }
 ]
